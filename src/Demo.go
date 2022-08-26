@@ -1,6 +1,6 @@
 package main
 
-import "godemo/src/jack/golang/lib/tools"
+import tools "godemo/src/jack/golang/lib/tools"
 
 func main() {
 
